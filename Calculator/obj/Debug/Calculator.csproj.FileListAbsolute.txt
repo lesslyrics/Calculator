@@ -1,0 +1,37 @@
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dimka\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dimka\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dimka\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dimka\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator — копия\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Downloads\C_Sharp-tasks-master\C_Sharp-tasks-master\Calculator_solution\Calculator\obj\Debug\Calculator.pdb
